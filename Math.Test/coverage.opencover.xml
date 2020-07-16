@@ -2,12 +2,12 @@
 <CoverageSession>
   <Summary numSequencePoints="13" visitedSequencePoints="13" numBranchPoints="13" visitedBranchPoints="13" sequenceCoverage="1" branchCoverage="1" maxCyclomaticComplexity="0" minCyclomaticComplexity="0" visitedClasses="1" numClasses="1" visitedMethods="3" numMethods="3" />
   <Modules>
-    <Module hash="7DC67FBF-24EA-491C-8586-5D75799DA546">
-      <ModulePath>D:\APPS\Math.Test\bin\Debug\netcoreapp3.1\math.dll</ModulePath>
-      <ModuleTime>2020-07-16T01:22:03</ModuleTime>
+    <Module hash="57725E52-3253-485B-8E75-FCEAD19C263C">
+      <ModulePath>D:\APPS\SonarCoverageTest\Math.Test\bin\Debug\netcoreapp3.1\math.dll</ModulePath>
+      <ModuleTime>2020-07-16T01:37:18</ModuleTime>
       <ModuleName>math</ModuleName>
       <Files>
-        <File uid="1" fullPath="D:\APPS\math\Class1.cs" />
+        <File uid="1" fullPath="D:\APPS\SonarCoverageTest\math\Class1.cs" />
       </Files>
       <Classes>
         <Class>
