@@ -120,6 +120,8 @@
   </ServerSettings>
   <LocalSettings>
     <Property Name="sonar.host.url">http://172.29.21.211</Property>
+    <Property Name="sonar.cs.opencover.reportsPaths">Math.Test/coverage.opencover.xml</Property>
+    <Property Name="sonar.coverage.exclusions">**Test*.cs</Property>
   </LocalSettings>
   <AnalyzersSettings>
     <AnalyzerSettings>

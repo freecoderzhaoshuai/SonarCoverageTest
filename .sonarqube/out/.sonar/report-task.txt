@@ -1,0 +1,6 @@
+projectKey=sonardotnetcoveragetest
+serverUrl=http://172.29.21.211
+serverVersion=7.6.0.21501
+dashboardUrl=http://172.29.21.211/dashboard?id=sonardotnetcoveragetest
+ceTaskId=AXNX5vQRpgbyWxvmEmLt
+ceTaskUrl=http://172.29.21.211/api/ce/task?id=AXNX5vQRpgbyWxvmEmLt
